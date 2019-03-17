@@ -1,0 +1,7 @@
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\bin\Debug\HomeWork170319.exe.config
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\bin\Debug\HomeWork170319.exe
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\bin\Debug\HomeWork170319.pdb
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\obj\Debug\HomeWork170319.csprojAssemblyReference.cache
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\obj\Debug\HomeWork170319.csproj.CoreCompileInputs.cache
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\obj\Debug\HomeWork170319.exe
+C:\Users\Noam\Desktop\DotNET\HomeWork170319\HomeWork170319\obj\Debug\HomeWork170319.pdb
